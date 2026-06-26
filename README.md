@@ -48,7 +48,7 @@ class SowmikNoor:
     name       = "Sowmik Noor"
     role       = "Data Scientist & ML Engineer"
     location   = "Dhaka, Bangladesh 🇧🇩"
-    education  = "CS / Machine Learning"
+    education  = "CSE/ Machine Learning"
     experience = "1–2 years"
 
     domains = [
